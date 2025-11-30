@@ -62,16 +62,14 @@ Zombies gradually spawn from the right and march toward the player’s base.
 
 
 ##  Gameplay Preview
-<img src="preview/screenshot.png" width="600">
-
-*(You can add more screenshots in a `preview/` folder and update this path.)*
+<img width="1050" height="513" alt="image" src="https://github.com/user-attachments/assets/4ea3ad59-9f28-4942-9a8c-2b434fe0ba1f" />
 
 ##  How to Run
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/plants-vs-zombies-web.git
-  ```
+```bash
+git clone https://github.com/your-username/plants-vs-zombies-web.git
+```
 
 2.Open the project folder.
 
